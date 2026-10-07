@@ -1,0 +1,6 @@
+{
+  "name": "LS Mobile App Support & Privacy Portal",
+  "description": "Official support, account deletion request, and privacy portal for the LS mobile application for Google Play Console compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
